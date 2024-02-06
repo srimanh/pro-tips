@@ -1,0 +1,65 @@
+nav{
+  background-color: rgb(57, 42, 42);
+  font-size: 1.2rem;
+}
+#logo{
+  position: relative;
+  top: 10px;
+}
+.left{
+  position: relative;
+  bottom: 10px;
+  left: 85%;
+  display: flex;
+  margin-left: 10px;
+}
+.link{
+  color: white;
+  text-decoration: none;
+}
+li{
+  list-style: none;
+  margin-left: 15px;
+}
+h1{
+  text-align: center;
+}
+
+body{
+  background-color: beige;
+}
+.form-container{
+  position: relative;
+  top: 150px;
+  left: 40%;
+  background-color: white;
+  width: 400px;
+  height: 400px;
+  padding-top: 25px;
+}
+.sub-containers{
+  position: relative;
+  left: 50px;
+}
+label{
+  font-size: 1.4rem;
+}
+input{
+  width: 280px;
+  height: 30px;
+  background-color: rgba(143, 143, 143, 0.477);
+}
+button{
+  font-size: 1.2rem;
+  position: relative;
+  left: 150px;
+}
+p{
+  color: red;
+  font-size: 0.7rem;
+}
+.success{
+  position: relative;
+  left: 50px;
+  font-size: 1.4rem;
+}
